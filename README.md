@@ -1,0 +1,2 @@
+# Fake-News-Detection-Using-Machine-Learning-Techniques
+This project aims to detect fake news articles using various machine learning algorithms, including Logistic Regression, Decision Tree, Gradient Boosting Classifier (GBC), and Random Forest Classifier (RFC). Fake news detection is a critical task in today's information age, as it helps in identifying and mitigating the spread of false information.
